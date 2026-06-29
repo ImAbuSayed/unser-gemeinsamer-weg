@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unser-gemeinsamer-weg/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Unser gemeinsamer Weg](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unser-gemeinsamer-weg/) |
+| **Get License** | [Get a Licensing Quote for Unser gemeinsamer Weg](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unser-gemeinsamer-weg/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Steig zu mir ein, die Lichter ziehen an uns vorbei
+> Nur wir zwei in der Nacht, ich fühl' mich endlich frei
+> Dein Blick so kühl, doch ich spüre diese heiße Glut
+> Glaub mir, Shawty, diese Fahrt tut uns beiden gut
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
