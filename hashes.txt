@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Unser gemeinsamer Weg
+
+This log tracks the cryptographic history and versioning for the song **Unser gemeinsamer Weg** (unser-gemeinsamer-weg).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T04:40:05.770634 | `v1` | `5c357b888c709295655d4144a73d91c2a4893f7a0de421602bad1ddd45c6e8f6` | `c004279ea61f03b413ba13491dd0289745034d4e63b6452689a6556dde961803` | `2026-06-30_unser-gemeinsamer-weg-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

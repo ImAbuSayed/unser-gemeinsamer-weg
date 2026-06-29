@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unser-gemeinsamer-weg/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Unser gemeinsamer Weg](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unser-gemeinsamer-weg/) |
+| **Get License** | [Get License For Unser gemeinsamer Weg](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unser-gemeinsamer-weg/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5c357b888c709295655d4144a73d91c2a4893f7a0de421602bad1ddd45c6e8f6` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
